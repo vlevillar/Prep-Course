@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    background-color: burlywood;
+    flex-direction: column;
+    padding: 10px;
+    border: 2px solid white
+}
+
+.flex-container div{
+    background-color: white;
+    width: auto;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid black;
+}
